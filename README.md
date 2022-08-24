@@ -27,10 +27,10 @@ Reference:
 	* Figure_1.pdf			:   Figure 1
 	* Figure_2.pdf			:   Figure 2
 
-+ **R**									  : 	folder containing R scripts to be sourced
++ **R**									  : 	folder containing R scripts
 	
-  * Figure_1.R 			    	:   script to compute and plot Figure 1
-  * Figure_2.R				    : 	script to compute and plot Figure 2
+  * Figure_1.R 			    :   script to compute and plot Figure 1
+  * Figure_2.R				  : 	script to compute and plot Figure 2
 	
 + **tikz**						: 	folder containing the tikz of the figures
 
