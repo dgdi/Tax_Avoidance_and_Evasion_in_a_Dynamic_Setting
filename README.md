@@ -10,7 +10,7 @@ Duccio Gamannossi degl'Innocenti, Rosella Levaggi and Francesco Menoncin
 
 Reference:
 
-[Gamannossi degl'Innocenti, D., Levaggi, R. and Menoncin, F., 2021. Tax Avoidance and Evasion in a Dynamic Setting, Journal of Economic Behavior & Organization, 204, 443-456.](http://www.dgdi.me/publication/avoid_evade_dynamic/)
+[Gamannossi degl'Innocenti, D., Levaggi, R. and Menoncin, F., 2022. Tax Avoidance and Evasion in a Dynamic Setting, Journal of Economic Behavior & Organization, 204, 443-456.](http://www.dgdi.me/publication/avoid_evade_dynamic/)
 
 ### Description of files in the Repo
 
